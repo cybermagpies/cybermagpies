@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "nest_server",
+    "magpie_client"
+]
+resolver = "2"

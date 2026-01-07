@@ -1,0 +1,8 @@
+[http]
+timeout = 30
+check-revoke = false 
+# 'check-revoke = false' sometimes fixes SSL errors caused by antivirus inspection
+
+[net]
+retry = 3
+git-fetch-with-cli = true
